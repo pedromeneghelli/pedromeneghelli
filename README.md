@@ -34,9 +34,12 @@ Transformo dados em decisões: modelo dados, construo dashboards no Power BI e a
 - Modelagem de dados e boas práticas de DAX no Power BI
 - Automação de relatórios com Power Automate
 - Pipelines de dados com Python e SQL
+- Criação de apps em Power Apps
+- Automações
 
 ---
 
 ### 📫 Contato
+Email - pedromeneghelli10@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-meneghelli/)
